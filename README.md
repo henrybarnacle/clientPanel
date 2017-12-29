@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-# An app for keeping track of clietns and payments, build using angular4 with firebase for data storage
+# An app for keeping track of clients and payments, built using Angular4 with Firebase for data storage
 
 ## Code scaffolding
 
